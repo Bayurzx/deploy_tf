@@ -1,5 +1,7 @@
 # TF?!: Power of Terraform - A Simple Guide
 
+![TF?!!!](https://raw.githubusercontent.com/Bayurzx/deploy_tf/master/TF.jpg)
+
 In this guide, we'll delve into Terraform's capabilities, explore its revamped licensing, and provide you with a step-by-step walkthrough for effective infrastructure automation. 
 
 Terraform is a custodian of infrastructure code, meticulously curated by diligent developers. Its purpose? To automate and manage the provisioning and configuration of infrastructure resources, spanning virtual machines, networks, and storage, across various cloud and on-premises environments. This ingenious tool, conceived by HashiCorp, comprises hundreds of modules written in the HashiCorp Configuration Language (HCL), collectively supported by a vibrant community of developers dedicated to deploying cloud and on-premises infrastructure and services.
